@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/container-with-most-water/description/
 
+// Optimized Solution || Time O(N) || Space O(1)
 
 func calculateArea(low, high, first, second int) int {
 	if second > first {
