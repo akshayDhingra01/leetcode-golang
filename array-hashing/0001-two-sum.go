@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/two-sum/description/
+
 func twoSum(nums []int, target int) []int {
 
     hash := make(map[int] int) // hash map of Value to obtain and it's index
